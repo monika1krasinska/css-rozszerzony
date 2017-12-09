@@ -1,0 +1,18 @@
+/*
+#tlo {
+    width: 100%;
+    height: 200vh;
+    background-image: url("../img/images.jpg");
+    background-repeat: no-repeat;
+    background-position: 300px 500px;
+    background-attachment: fixed;
+}
+*/
+#contain-cover {
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    background-image: url("../img/images.jpg");
+    background-size: contain;
+/*    background-position: center center;*/
+}
